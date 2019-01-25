@@ -31,25 +31,35 @@ Edit this document to include your answers after each question. Make sure to lea
 1. Describe the biggest difference between `.forEach` & `.map`.
 
 
+A forEach() method executes a provided function once for each array while map() creates a new array with the results of calling a provided function on every element in the calling array.
+
 
 
 2. What is the difference between a function and a method?
 
+
+A method is a function when an object is associated it where as a function is a function when no object is associated with it.
 
 
 
 3. What is closure?
 
 
+A Closure is a nested function with the ability to reference things (variables) outside its normal scope.
+
 
 
 4. Describe the four rules of the 'this' keyword.
 
 
+global binding, implicit binding, explicit binding, new binding.
+
 
 
 5. Why do we need super() in an extended class?
 
+
+super() is used to tell a parent’s constructor to be concerned with the child’s attributes and vis versa.
 
 
 
@@ -61,16 +71,16 @@ Follow these steps to set up and work on your project:
 - [X] Add PM as collaborator on Github.
 - [X] Clone your OWN version of Repo (Not Lambda's by mistake!).
 - [X] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
-- [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-- [ ] You are now ready to build this project with your preferred IDE
-- [ ] Implement the project on your Branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [X] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+- [X] You are now ready to build this project with your preferred IDE
+- [X] Implement the project on your Branch, committing changes regularly.
+- [X] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by  merging the branch back into master.
+- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [X] Add your Project Manager as a Reviewer on the Pull-request
+- [X] PM then will count the HW as done by  merging the branch back into master.
 
 
 ## Minimum Viable Product
